@@ -1,0 +1,92 @@
+CULTURES: 8TH WONDER - BUG REPORT
+=================================
+
+Found a bug? Thanks for helping test the reconstruction!
+
+Please report all bugs and problems in this Discord channel:
+
+https://discord.com/channels/499901942605021186/1543708137758920825
+
+If you notice something that does not work, behaves differently from the
+original Cultures: 8th Wonder of the World, or causes the game to crash,
+please report it.
+
+You do not need to write a technical report.
+A short description of what happened is enough.
+
+
+HOW TO REPORT A BUG
+-------------------
+
+Please include:
+
+1. Build version
+   You can find it in BUILD_INFO_ENG.txt.
+
+2. What were you doing?
+   Briefly describe what you were doing before the problem occurred.
+
+3. What happened?
+   Describe what went wrong.
+
+4. What should have happened?
+   If you know, describe how the original game behaves in the same situation.
+
+5. Can the bug be reproduced?
+   YES / NO / NOT SURE
+
+
+EXAMPLE
+-------
+
+Version:
+reconstruction-test-build-20260916b
+
+What were you doing?
+I sent a woodcutter to work and waited for him to cut down a tree.
+
+What happened?
+After reaching the tree, the character stopped and did nothing.
+
+What should have happened?
+The woodcutter should have started cutting down the tree.
+
+Can it be reproduced?
+YES
+
+
+SCREENSHOTS AND VIDEOS
+----------------------
+
+If possible, attach a screenshot or a short video showing the problem.
+
+Screenshots are especially helpful for graphical issues.
+
+If the game freezes or crashes, please also describe what you were doing
+immediately before the problem occurred.
+
+
+IMPORTANT
+---------
+
+Do not report only crashes.
+
+We are also looking for:
+
+- characters getting stuck
+- jobs not working correctly
+- building and production problems
+- incorrect or missing animations
+- user interface problems
+- camera or selection problems
+- graphical issues
+- missing or incorrect sounds
+- objects appearing in the wrong place
+- differences compared to the original Cultures
+- anything else that looks or behaves incorrectly
+
+
+If you are not sure whether something is a bug - report it anyway.
+It is better to check it than to miss a potential problem.
+
+Thank you for helping test Cultures Reconstruction!

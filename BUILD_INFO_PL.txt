@@ -1,0 +1,81 @@
+CULTURES: 8TH WONDER – INFORMACJE O WERSJI TESTOWEJ
+===================================================
+
+INFORMACJE O BUILDZIE
+---------------------
+Wersja:            reconstruction-test-build-20260916b
+Data buildu:        2026-09-16 13:05
+Konfiguracja:       Release
+Plik wykonywalny:   cultures_reconstruction.exe
+
+STATUS TESTÓW
+-------------
+Testy automatyczne:
+
+  572 / 575 zakończonych powodzeniem (99%)
+
+Obecnie występują 3 znane błędy testów związane z nieukończonymi systemami
+produkcji w budynkach:
+
+  - produkcja cegieł glinianych
+  - produkcja bloków kamiennych
+  - limit pracy młynarza
+
+Systemy te są nadal w trakcie prac i mogą nie działać poprawnie podczas gry.
+
+W tej wersji nie pojawiły się żadne nowe błędy w testach automatycznych.
+
+TEST URUCHOMIENIA
+-----------------
+Ta wersja została ręcznie przetestowana przy użyciu prawdziwej kopii
+oryginalnego folderu DataX z gry Cultures.
+
+Pomyślnie sprawdzono następującą ścieżkę uruchomienia:
+
+  Menu główne
+    -> Gra jednoosobowa
+    -> Samouczek
+    -> 1) Sterowanie
+
+Mapa samouczka ładuje się poprawnie.
+
+Potwierdzono poprawne wyświetlanie następujących elementów:
+
+  - teren
+  - interfejs gry
+  - pasek narzędzi
+  - minimapa
+  - okno z opisem misji
+
+ZNANY PROBLEM Z URUCHAMIANIEM – NAPRAWIONY
+------------------------------------------
+W tej wersji naprawiono problem, który mógł powodować uruchomienie gry
+z czarnym oknem w sytuacji, gdy dane gry nie mogły zostać załadowane.
+
+DataX musi być prawdziwą kopią folderu z danymi oryginalnej gry.
+
+Skróty, dowiązania symboliczne oraz junctiony nie są obsługiwane.
+
+Jeżeli nie chcesz tworzyć kopii całego folderu DataX, możesz zamiast tego
+ustawić w pliku game.ini pełną ścieżkę do istniejącego pliku data0001.lib.
+
+Jeżeli rekonstrukcja nie będzie w stanie załadować żadnych danych gry,
+utworzy teraz plik:
+
+  startup.log
+
+obok cultures_reconstruction.exe.
+
+Sprawdź ten plik, jeżeli gra uruchomi się z czarnym oknem lub nie przejdzie
+do menu głównego.
+
+UWAGI
+-----
+Jest to WERSJA TESTOWA.
+
+Pomyślne przejście testów automatycznych nie oznacza, że wszystkie systemy
+gry są już w pełni zaimplementowane ani że działają dokładnie tak samo jak
+w oryginalnej grze.
+
+Prosimy o zgłaszanie wszelkich błędów, crashy, nieprawidłowego działania
+oraz różnic względem oryginalnego Cultures: 8th Wonder of the World.

@@ -1,0 +1,80 @@
+CULTURES: 8TH WONDER – RECONSTRUCTION TEST BUILD
+=================================================
+
+BUILD INFORMATION
+-----------------
+Version:           reconstruction-test-build-20260916b
+Build date:        2026-09-16 13:05
+Configuration:     Release
+Executable:        cultures_reconstruction.exe
+
+TEST STATUS
+-----------
+Automated tests:
+
+  572 / 575 passed (99%)
+
+There are currently 3 known test failures related to unfinished building
+production systems:
+
+  - clay brick production
+  - stone block production
+  - miller work quota
+
+These systems are still under development and may not behave correctly
+during gameplay.
+
+No new automated test failures were introduced in this build.
+
+LAUNCH TEST
+-----------
+This build has been manually tested using a real copy of the original
+Cultures DataX folder.
+
+The following startup sequence was successfully verified:
+
+  Main Menu
+    -> Single Player
+    -> Tutorial
+    -> 1) Controls
+
+The tutorial map loads successfully.
+
+The following elements were confirmed to render correctly:
+
+  - terrain
+  - game interface
+  - toolbar
+  - minimap
+  - mission briefing window
+
+KNOWN STARTUP ISSUE – FIXED
+---------------------------
+A problem that could cause the game to start with a black window when
+game data could not be loaded has been addressed in this build.
+
+DataX must be a real copy of the original game's data folder.
+
+Shortcuts, symbolic links and junctions are not supported.
+
+If you do not want to duplicate the DataX folder, you can instead configure
+an absolute path to your existing data0001.lib file in game.ini.
+
+If the reconstruction cannot load any game data, it will now create:
+
+  startup.log
+
+next to cultures_reconstruction.exe.
+
+Check this file if the game starts with a black window or fails to reach
+the main menu.
+
+NOTES
+-----
+This is a TEST BUILD.
+
+Passing the automated tests does not mean that all game systems are fully
+implemented or behave exactly like the original game.
+
+Please report any bugs, crashes, incorrect behaviour, or differences from
+the original Cultures: 8th Wonder of the World.

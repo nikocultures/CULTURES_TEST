@@ -1,0 +1,91 @@
+CULTURES: 8TH WONDER - ZGŁASZANIE BŁĘDÓW
+=========================================
+
+Znalazłeś błąd? Dzięki za pomoc w testowaniu!
+
+Wszystkie błędy i problemy zgłaszaj na kanale Discord:
+
+https://discord.com/channels/499901942605021186/1543708137758920825
+
+Jeżeli zauważysz coś, co nie działa, działa inaczej niż w oryginalnym
+Cultures: 8th Wonder of the World albo powoduje crash gry, zgłoś to.
+
+Nie musisz pisać technicznego raportu.
+Wystarczy krótko opisać, co się stało.
+
+
+JAK ZGŁOSIĆ BŁĄD
+----------------
+
+Podaj:
+
+1. Wersję buildu
+   Znajdziesz ją w pliku BUILD_INFO_PL.txt.
+
+2. Co robiłeś?
+   Napisz krótko, co robiłeś przed wystąpieniem błędu.
+
+3. Co się stało?
+   Opisz, co było nie tak.
+
+4. Co powinno się wydarzyć?
+   Jeżeli wiesz, napisz, jak zachowuje się w tej sytuacji oryginalna gra.
+
+5. Czy błąd da się powtórzyć?
+   TAK / NIE / NIE WIEM
+
+
+PRZYKŁAD
+--------
+
+Wersja:
+reconstruction-test-build-20260916b
+
+Co robiłem:
+Wysłałem drwala do pracy i czekałem, aż zetnie drzewo.
+
+Co się stało:
+Po dojściu do drzewa postać zatrzymała się i już nic nie robiła.
+
+Co powinno się wydarzyć:
+Drwal powinien rozpocząć ścinanie drzewa.
+
+Czy da się powtórzyć:
+TAK
+
+
+SCREENSHOTY I NAGRANIA
+----------------------
+
+Jeżeli możesz, dołącz screenshot lub krótkie nagranie pokazujące błąd.
+
+Przy błędach graficznych screenshot jest szczególnie pomocny.
+
+Jeżeli gra się zawiesi lub wyłączy, napisz również, co robiłeś
+bezpośrednio przed wystąpieniem problemu.
+
+
+WAŻNE
+-----
+
+Nie zgłaszaj tylko crashy.
+
+Szukamy również:
+
+- postaci, które się zacinają
+- nieprawidłowego wykonywania pracy
+- błędów budynków i produkcji
+- błędnych lub brakujących animacji
+- problemów z interfejsem
+- problemów z kamerą lub zaznaczaniem
+- błędów graficznych
+- brakujących lub nieprawidłowych dźwięków
+- obiektów pojawiających się w złym miejscu
+- różnic względem oryginalnego Cultures
+- wszystkiego, co wygląda lub zachowuje się podejrzanie
+
+
+Jeżeli nie jesteś pewien, czy coś jest błędem - zgłoś to.
+Lepiej sprawdzić niż pominąć potencjalny problem.
+
+Dzięki za pomoc w testowaniu Cultures Reconstruction!
