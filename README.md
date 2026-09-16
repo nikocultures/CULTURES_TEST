@@ -1,5 +1,8 @@
 # Cultures: 8th Wonder of the World - Reconstruction Test Build
 
+🌐 **Language / Język:**  
+🇬🇧 **English** | [🇵🇱 Polski](PL_README.md)
+
 This repository contains public test builds of the **Cultures: 8th Wonder of the World Reconstruction Project**.
 
 The project is currently under active development and is **not a finished replacement for the original game**.
